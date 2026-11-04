@@ -31,10 +31,27 @@
 
 <img align="right" alt="Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 **What I Do:** Self-taught **Data Analyst** & **Automation Engineer** specializing in end-to-end **Extract, Transform, Load (ETL)** architectures.
-- 🛠️ **Core Focus:** Writing modular **Python** scripts for web scraping, API enrichment (`Spotipy`, `YouTube`), and automated data cleaning pipelines loaded into **MS SQL Server**.
-- 📈 **Business Intelligence:** Designing interactive operational, healthcare, and D2C e-commerce dashboards in **Power BI**, **Tableau**, and **Advanced Excel**.
-- 🚀 **Entrepreneurship:** Founder of **CRAVE**, applying data-driven insights to quick-commerce supply chains, platform economics, and D2C consumer trends.
+Hi, I'm Jaynil Mistry 👋
+
+Aspiring Data Analyst | Dashboard Builder | Automation Enthusiast
+
+⚡ About Me
+
+🔭 Self-taught data analyst who loves turning raw data into clear, useful insights.
+🚀 Founder of CRAVE, applying data to quick-commerce and D2C consumer trends.
+📍 Based in Mumbai, India.
+
+🎯 What I Focus On
+
+📊 Building interactive dashboards in Power BI, Tableau and Excel
+🔄 Creating ETL pipelines and automating data cleaning with Python
+🗄️ Storing and querying data in SQL Server
+
+🌱 What I'm Learning
+
+Advanced Python (Pandas, NumPy, web scraping, APIs)
+SQL and data modelling
+Better data storytelling and visualization
 
 <br clear="right"/>
 
